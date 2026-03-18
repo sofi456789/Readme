@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 1. escrição do Produto/Serviço
+## 📖 1. Descrição do Produto/Serviço
 O **InfoBairro** é uma plataforma web georreferenciada desenvolvida em **C# (ASP.NET Core MVC)**. O sistema permite que os moradores de Camaçari visualizem mapas interativos e participem de um painel de avaliações, permitindo o compartilhamento de dados reais sobre infraestrutura e serviços locais.
 
 ## ⚠️ 2. Diagnóstico do Problema
@@ -72,5 +72,6 @@ O projeto utiliza uma estrutura de **Data Intelligence**. Diferente de redes soc
 ---
 
 <p align="center">
-  <sub>Projeto desenvolvido no SENAI Camaçari • 2026</sub>
+  <sub><strong>Projeto desenvolvido no SENAI Camaçari • 2026</strong></sub><br>
+  <sub><font size="1">Arthur Michelângelo • Enya Arruda • Gabriel Oliveira • Leandro Rivas • Nicolly Brito</font></sub>
 </p>
