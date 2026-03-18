@@ -3,7 +3,7 @@
   
 </p>
 
-<h1 align="center">🏠 InfoBairro</h1>
+<h1 align="center">InfoBairro</h1>
 
 <p align="center">
   <strong>Inteligência Urbana e Georreferenciamento em Camaçari</strong>
