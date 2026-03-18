@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/ad2f9c9a-e7a5-46f1-bd7b-6d2a853f71b4" alt="InfoBairro Logo" />
+  <img width="300" src="infobairrologo.png" alt="InfoBairro Logo" />
   
 </p>
 
