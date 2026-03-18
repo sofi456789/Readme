@@ -17,18 +17,18 @@
 
 ---
 
-## 📖 7.1 Descrição do Produto/Serviço
+## 📖 1. escrição do Produto/Serviço
 O **InfoBairro** é uma plataforma web georreferenciada desenvolvida em **C# (ASP.NET Core MVC)**. O sistema permite que os moradores de Camaçari visualizem mapas interativos e participem de um painel de avaliações, permitindo o compartilhamento de dados reais sobre infraestrutura e serviços locais.
 
-## ⚠️ 7.2 Diagnóstico do Problema
+## ⚠️ 2. Diagnóstico do Problema
 Informações oficiais sobre bairros costumam ser genéricas. Moradores enfrentam dificuldades para encontrar relatos atualizados sobre a qualidade de vida, o que gera incerteza em decisões críticas como moradia ou abertura de comércios.
 
-## 💡 7.3 Diferencial Inovador
+## 💡 3. Diferencial Inovador
 O projeto utiliza uma estrutura de **Data Intelligence**. Diferente de redes sociais, aqui os relatos são vinculados a coordenadas geográficas e moderados, transformando comentários em relatórios de tendência urbana.
 
 ---
 
-## 🛠️ 8. Recursos Tecnológicos
+## 🛠️ 4. Recursos Tecnológicos
 
 ### ⚙️ Backend & Frontend
 * **Linguagem:** C# com framework ASP.NET Core MVC.
@@ -44,7 +44,7 @@ O projeto utiliza uma estrutura de **Data Intelligence**. Diferente de redes soc
 
 ---
 
-## 📋 9. Requisitos da Solução
+## 📋 5. Requisitos da Solução
 
 ### ✅ Requisitos Funcionais
 * **RF05:** Registro de avaliação (Segurança, Mobilidade, Limpeza e Infraestrutura).
@@ -58,14 +58,14 @@ O projeto utiliza uma estrutura de **Data Intelligence**. Diferente de redes soc
 
 ---
 
-## 📅 7.11 Cronograma e Roadmap
+## 📅 6. Cronograma e Roadmap
 * **2025.1:** Design no Figma, Diagramas e Proposta de Valor.
 * **2025.2:** Desenvolvimento Back-end e Banco de Dados.
 * **2026.1:** Plano de Projeto, Refinamento de Código e Pitch Final.
 
 ---
 
-## 👥 7.6 Persona e Estratégia
+## 👥 7. Persona e Estratégia
 **Público:** Moradores e visitantes de Camaçari.  
 **Comercial:** Venda de Dashboards analíticos para o setor imobiliário, utilizando dados agregados e tendências de mercado.
 
