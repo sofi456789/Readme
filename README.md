@@ -44,6 +44,51 @@ O **InfoBairro** é uma plataforma Web Georreferenciada desenvolvida para empode
 
 ---
 
+## 🎲 4. Banco de Dados
+
+A estrutura do banco de dados é responsável por organizar as informações do sistema 
+e permitir que eles se relacionam de de forma eficiente. A seguir, é apresentada a organização 
+e a relação entre suas informações.
+
+  ### 💡 Visão geral
+  O banco de dados do InfoBairro segue o modelo relacional, onde as informações são organizadas em tabelas conectadas entre si.
+
+  Exemplificação:
+  - Cidades -> agrupam bairros 
+  - Bairros -> possuem informações e indicadores gerais
+  - Avaliações -> representam a opinião dos usuários sobre os bairros 
+
+  ### 🧠 Analogia simples 
+  
+Funciona como um sistema de avaliações:
+
+  - A cidade organiza os locais em uma região maior
+  - Cada bairro representa um lugar que pode ser analisado
+  - As avaliações são as experiências e notas dadas pelo usuários
+
+Com isso, o sistema consegue transformar opiniões individuais em uma visão geral sobre cada bairro.
+
+### 🪢 Relacionametos (DER)
+
+- Uma cidade possui vários bairros (1:N)
+- Um bairro pode ter várias avaliações (1:N)
+
+📌 Exemplo:
+
+``` Cidade -> vários Bairros -> várias Avaliações ```
+### ⚠️ Observação importante (regra do sistema)
+
+As notas não ficam armazenadas prontas na tabela de bairros. Elas são calculadas dinamicamente no sistema (backend).
+
+Isso acontece porque:
+- Evita inconsistência de dados
+- Garante que as médias estejam sempre atualizadas
+- Melhora a lógica de negócio
+
+✔️ Ou seja:
+As notas são calculadas a partir da tabela de avaliações.
+
+
 ## 📈 4. Roadmap & Project Status
 
 O projeto encontra-se atualmente em fase de **MVP (Mínimo Produto Viável)**.
