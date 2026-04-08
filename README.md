@@ -68,7 +68,7 @@ Funciona como um sistema de avaliações:
 
 Com isso, o sistema consegue transformar opiniões individuais em uma visão geral sobre cada bairro.
 
-### 🪢 Relacionametos (DER)
+### 🪢 Relacionamentos (DER)
 
 - Uma cidade possui vários bairros (1:N)
 - Um bairro pode ter várias avaliações (1:N)
